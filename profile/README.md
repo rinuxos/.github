@@ -22,4 +22,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 
-<p align="center"><img src="./doc/icon.png"alt="rinux-logo"style="width:10%"/></p><h1 align="center"><b style="font-size:5vw;font-family:courier;align:center;background:url(./doc/mech.png) repeat center center;background-size:8vw;-webkit-text-fill-color:transparent;-webkit-background-clip:text;-moz-background-clip:text;background-clip:text;-webkit-text-stroke:1px rgb(75,45,35);">Rinux</b></h1><p align="center"style="">OS development in <a href="https://www.rust-lang.org/">Rust</a></p>
+<p align="center"><img src="../icon.png"alt="rinux-logo"style="width:10%"/></p><h1 align="center"><b style="font-size:5vw;font-family:courier;align:center;background:url(../mech.png) repeat center center;background-size:8vw;-webkit-text-fill-color:transparent;-webkit-background-clip:text;-moz-background-clip:text;background-clip:text;-webkit-text-stroke:1px rgb(75,45,35);">Rinux</b></h1><p align="center"style="">OS development in <a href="https://www.rust-lang.org/">Rust</a></p>
